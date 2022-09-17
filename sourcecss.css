@@ -8,7 +8,7 @@
        height: 100vh;
    }
    
-   /* CSS which you need for blurred box */
+ 
    body{
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -51,7 +51,7 @@
    }
    
    
-   /* Form which you dont need */
+   
    .user-login-box{
      position: relative;
      margin-top: 50px;
@@ -79,30 +79,14 @@
      color: white;
    }
    
-   input.user-password{
-     width: 120px;
+   .user-password{
+     width: 100px;
      height: 18px;
      opacity: 0.4;
      border-radius: 2px;
-     padding: 5px 15px;
+     padding: 2px 5px;
      border: 0;
    }
-   .submit {
-    width: 120px;
-    text-align: center;
-     height: 18px;
-    opacity: 0.4;
-    border: 0;
-    border-radius: 2px;
-    padding: 4px 10px;
-   }
-   .reset {
-    width: 120px;
-    text-align: center;
-     height: 18px;
-    opacity: 0.4;
-    border: 0;
-    border-radius: 2px;
-    padding: 4px 10px;
-   }
+   /* uff ended */ 
+   
    
